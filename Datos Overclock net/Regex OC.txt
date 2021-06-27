@@ -1,0 +1,5 @@
+Msg ID: [0-9a-z]+@w+.overclock.net
+First Received: R[0-9eE][0-9cS][2eA-Z][0-9iA-Z][a-zP][0-9a-z]+[0-9][a-z][A-Z]+[0-9a-zU][dA-Z][0-9][a-z][A-Z]+[8a-zA-Z][a-zA-Z]o[a-z]+[0a-z][0-9a-z]+[0-9a-zA-Z][a-z]+?[a-zS]?[dG]?[[0-9a-z]+]?[a-zA-Z]?[a-zG]?[a-zA-Z]?[a-z]+?[i]?[t]?[h]?
+Second Last Received: R[a-zA-Z][0a-zS][0-9a-zM][0a-zT][0-9a-zP][0-9a-zS][2a-z][0-9a-zA-Z][a-zA-Z][0-9][a-z][A-Z]+[0-9a-z]?[0-9a-zE]?[0-9a-zC]?[0-9a-zA-Z]?[0-9a-zS]?[0-9a-zA]?[0-9a-z]?[0-9a-zA]?[0-9a-zE]?[0-9a-zS]?[0-9a-z]?[0-9a-zA-Z]?[0-9a-zC]?[0-9][a-z][A-Z]+?[0-9a-zM]?[0-9a-zE]?[0-9][a-z][A-Z]+?[0-9mA-Z]?[0-9a-zA-Z]?[0-9a-zL]?[0-9a-zA-Z]?[0-9E]?[0-9a-zS]?[0-9a-z]+?[0-9a-zG]?[0-9a-zC]?[0-9a-zM]?[0-9r]?[0-9nS]?[0-9eA-Z]?[0-9a-zA-Z]?[0-9a-zS]?[0-9a-zT]?[0-9a-zA]?[0a-zA-Z]?[a-zS]?[a-z]?[1a-z]?[2a-z]?[0-9a-z]+?[2a-zG]?[8xA-Z]?[a-zM]?[1a-z]?[2a-zS]?[0-9a-zH]?[0a-zA]?[2a-z]?[0-9a-z]?[6a-zA-Z]?[[0-9a-z]+]?
+UTC: +0+ (UTC)
+From/Mails: From: "Overclock.net" noreply@mail.overclock.net

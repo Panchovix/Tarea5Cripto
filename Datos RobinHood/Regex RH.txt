@@ -1,0 +1,5 @@
+Msg ID: [0-9][a-z][A-Z]+[5A-Z][0-9a-zA-Z][6a-zA-Z][0-9][a-z][A-Z]+[7a-zA-Z]6[0a-z][5a-z][4a-z][3a-z][8a-z][0d][0-9][0-9i][0-9s][0-9m][2a-z][0-9p][9a-z][3a-z][0-9a-z][0-9i][0-9p]s[1e][0n]d[1g]r[1i][7d]?[1n]?[5e]?[9t]?
+First Received: R[1a-zA-Z][0-9a-zA-Z][4a-zA-Z][0-9a-zA-Z][2a-zA-Z][0a-zA-Z][0-9a-zA-Z][0-9fC][0-9][a-z][A-Z]+[a-z][1a-zA-Z][2a-z][a-z][5a-z][0-9a-z]+[9a-zA-Z][1a-z]?[0-9a-z]?[4a-z]?[0-9a-z]+?[0-9a-zS]?[0-9a-zA-Z]?[0-9a-z]+?[0-9a-zS]?[0-9a-zG]?[0-9a-z]?[A-Za-z]+?[0a-zA-Z]?[0a-zT]?[0-9a-zP]?[0a-z]?[2a-zH]?[0dT]?[cA-Z]?[oA-Z]?[mA-Z]?[i]?[d]?[w]?[i]?[t]?[h]?
+Second Last Received: R[0-9a-zA-Z][0-9a-z]+[0-9a-zT][0-9a-zL][0-9a-zS][0-9a-z]+[0-9a-zP][0-9a-zD][0-9a-zA-Z][0-9a-zC][0-9][a-z][A-Z]+[0-9a-z][0-9][a-z][A-Z]+[0-9a-zS][0-9a-zA][0-9a-zE]?[0-9a-zA-Z]?[0-9a-zE]?[0-9a-zS]?[0-9a-z]?[0-9a-zE]?[0-9][a-z][A-Z]+?[A-Za-z]+?[a-zA-Z]?[2a-zH]?[5a-zA]?[0-9a-z]?[5a-z]?[6a-z]?[a-z]+?[1a-z]?[2a-z]?[0-9a-z]?[2a-z]?[0-9a-z]?[2a-z]?[0-9a-z]?[2a-z]?[8a-z]?[a-z]?[a-zA-Z]?[a-z]?[a-zA-Z]?[a-z]+?[0-9]+?[0-9A-Z]?[a-z]?[r]?
+UTC: +0+ (UTC)
+From/Mails: From: R[oR][a-z]+o[a-z]dn[oS][a-z]+r[a-z]+dr[a-z]+nho+d.com

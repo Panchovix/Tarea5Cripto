@@ -1,0 +1,5 @@
+Msg ID: [0-9][a-z][A-Z]+[5A-Z][0-9][a-z][A-Z]+[3a-zA-Z]ai[a-z]+[0d]0[0-9]+[8p]1[a-z]+[0-9].sendgrid.net
+First Received: R[0-9][a-z][A-Z]+[0-9a-z][0-9a-zF][0-9a-z]+[0-9][a-z][A-Z]+[0-9a-zG][0-9a-z][0-9a-zU][0-9a-zT][0-9a-zC]?[0-9][a-z][A-Z]+?[0-9a-zT]?[0-9a-zP]?[0-9a-z]+?[0-9][a-z][A-Z]+?[7a-zA-Z]?[0-9][a-z][A-Z]+?[0-9a-zB]?[0-9][a-z][A-Z]+?[0-9gA-Z]?[0-9F]?[6a-z]?[7a-z]?[r]?[b]?[y]?
+Second Last Received: R[2a-zS][0-9a-z]+[0-9a-zT][0-9a-zL][0-9a-zS][0-9a-z]+[0-9a-zA-Z][0-9a-z]+[0-9a-zE][0-9a-zS][0-9][a-z][A-Z]+[0-9a-zE][0-9a-zR][0-9][a-z][A-Z]+[0-9a-zA]?[0-9][a-z][A-Z]+?[0-9a-zS]?[0-9a-z]?[0-9a-zE]?[0-9a-zS]?[0-9][a-z][A-Z]+?[0-9a-zE]?[0-9a-z]?[0-9a-zR]?[0-9a-zS]?[0-9a-zA]?[0-9a-z]?[0-9a-zA]?[0-9a-zE]?[0-9a-zS]?[0-9a-z]+?[0-9a-zG]?[0-9a-zC]?[0-9a-zA-Z]?[0-9a-zT]?[0-9a-zS]?[0-9a-zH]?[2a-zA]?[2a-z]?[0-9a-z]+?[a-zA]?[a-z]?[r]?
+UTC: +0+ ([A-Z]+)
+From/Mails: [nS][a-zS][a-z]+yn[a-z]+l[a-z]+f[a-z]o[a-z]om
